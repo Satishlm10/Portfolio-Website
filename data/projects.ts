@@ -4,7 +4,7 @@ export const projects = [
     title: "TechBrain.ai WebApp Testing",
     description:
       "A learning platform developed by Chulo Solutions. TechBrain ai contains course, login form, quizes, and many other features which were tested to verify and validate proper functioning of the application.",
-    image: "/techbrain.png?height=400&width=600",
+    image: "/techbrain.PNG?height=400&width=600",
     technologies: ["Python","Selenium","Automation"],
     liveUrl: "https://techbrain.ai/",
     githubUrl: "https://github.com/Satishlm10/QA_Intern_Automation_Script",
@@ -15,7 +15,7 @@ export const projects = [
     title: "EmployeeMs WebApp Testing",
     description:
       "A Employee Leave Management developed by Chulo Solutions. Tested, verified and validated the functions of the system.",
-    image: "/employeems.png?height=400&width=600",
+    image: "/employeems.PNG?height=400&width=600",
     technologies: ["Python","Selenium","Automation"],
     liveUrl: "https://namespace-team.github.io/ems-web/login",
     githubUrl: "https://github.com/Satishlm10/QA_Intern_Automation_Script",
