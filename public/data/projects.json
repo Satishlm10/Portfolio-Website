@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "title": "E-commerce Platform",
+    "description": "A full-featured e-commerce platform with product management, cart functionality, and payment integration.",
+    "image": "/placeholder.svg?height=400&width=600",
+    "technologies": ["React", "Node.js", "MongoDB", "Stripe"],
+    "liveUrl": "#",
+    "githubUrl": "#"
+  },
+  {
+    "id": 2,
+    "title": "Portfolio Website",
+    "description": "A responsive portfolio website showcasing projects and skills with a modern design.",
+    "image": "/placeholder.svg?height=400&width=600",
+    "technologies": ["Next.js", "Tailwind CSS", "Framer Motion"],
+    "liveUrl": "#",
+    "githubUrl": "#"
+  }
+]
+
